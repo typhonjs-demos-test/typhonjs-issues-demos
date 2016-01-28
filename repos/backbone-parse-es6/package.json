@@ -9,25 +9,26 @@
     "url": "https://github.com/typhonjs-demos/typhonjs-issues-demos/typhonjs-issues-demos.git"
   },
   "jspm": {
+    "main": false,
     "dependencies": {
-      "backbone": "github:typhonjs/backbone-parse-es6@master",
+      "backbone": "github:typhonjs-parse/backbone-parse-es6@master",
       "jquery": "github:typhonjs/zepto@master",
-      "parse": "npm:parse@^1.6.9",
-      "parseinit": "github:typhonjs/typhonjs-core-parse-init@master",
+      "parse": "npm:parse@^1.7.0",
       "text": "github:systemjs/plugin-text@^0.0.2",
+      "typhonjs-core-parse-init": "github:typhonjs-parse/typhonjs-core-parse-init@master",
       "underscore": "npm:underscore@^1.8.3"
     },
     "devDependencies": {
-      "babel": "npm:babel-core@^5.8.33",
-      "babel-runtime": "npm:babel-runtime@^5.8.29",
+      "babel": "npm:babel-core@^5.8.35",
+      "babel-runtime": "npm:babel-runtime@^5.8.35",
       "core-js": "npm:core-js@^1.2.6"
     }
   },
   "devDependencies": {
     "gulp": "^3.9.0",
-    "jspm": "^0.16.15",
-    "typhonjs-config-eslint": "^0.2.0",
-    "typhonjs-config-jspm-parse": "^0.1.0",
-    "typhonjs-core-gulptasks": "^0.3.0"
+    "jspm": "^0.16.25",
+    "typhonjs-config-eslint": "^0.2.1",
+    "typhonjs-config-jspm-parse": "^0.4.0",
+    "typhonjs-core-gulptasks": "^0.5.0"
   }
 }
