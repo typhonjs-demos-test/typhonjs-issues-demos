@@ -39,7 +39,7 @@ body
 {
    background: #fff;
    background: rgba(255, 255, 255, 0.9);
-   margin: 130px 0 40px 0;
+   margin: 40px 0 40px 0;
    border: 1px solid #ccc;
    position: relative;
    border-top-left-radius: 2px;
@@ -74,7 +74,7 @@ body
 #todoapp h1
 {
    position: absolute;
-   top: -90px;
+   top: -50px;
    width: 100%;
    font-size: 30px;
    font-weight: bold;
