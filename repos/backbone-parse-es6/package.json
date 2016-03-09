@@ -9,13 +9,12 @@
     "url": "https://github.com/typhonjs-demos/typhonjs-issues-demos/typhonjs-issues-demos.git"
   },
   "jspm": {
-    "main": false,
     "dependencies": {
-      "backbone": "github:typhonjs-parse/backbone-parse-es6@master",
-      "jquery": "github:typhonjs/zepto@master",
+      "backbone": "github:typhonjs-backbone-parse/backbone-parse-es6@master",
+      "jquery": "github:typhonjs-browser/zepto@master",
       "parse": "npm:parse@^1.7.0",
       "text": "github:systemjs/plugin-text@^0.0.2",
-      "typhonjs-core-parse-init": "github:typhonjs-parse/typhonjs-core-parse-init@master",
+      "typhonjs-core-parse-init": "github:typhonjs-backbone-parse/typhonjs-core-parse-init@master",
       "underscore": "npm:underscore@^1.8.3"
     },
     "devDependencies": {
