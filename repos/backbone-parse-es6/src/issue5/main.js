@@ -241,23 +241,6 @@ commentCollection.fetch().then(() =>
 {
    s_POST_MSG('Comment collection initialized.');
 
-
-   const keys = Object.keys(Parse.Object.prototype);
-
-const oldFromJSON = Parse.Object.fromJSON;
-
-   Parse.Object.fromJSON = (testme) => { console.log('testme'); };
-
-   console.log('!! Parse Object:' + Parse.Object.fromJSON);
-   console.log('!! Parse Object keys:' + keys);
-
-   Parse.Object.fromJSON = oldFromJSON;
-//   for (const key in Parse.Object)
-//   for ()
-//   {
-//      console.log('!! PO key: ' + key +'; typeof: ' + (typeof Parse.Object[key]));
-//   }
-
    $("#add").click(() => { s_ADD_DATA(); });
    $("#create").click(() => { s_CREATE_DATA(); });
    $("#delete").click(() => { s_DELETE_DATA(); });
