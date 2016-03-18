@@ -9,12 +9,12 @@
 
 /* eslint-disable no-console */
 
-import               'parseinit';
+import               'typhonjs-core-parse-init';
 
 import $             from 'jquery';
 import Parse         from 'parse';
 
-import myCollection  from 'MyCollection.js';
+import myCollection  from './MyCollection.js';
 
 myCollection.query = new Parse.Query(myCollection.model);
 myCollection.query.ascending("createdAt");

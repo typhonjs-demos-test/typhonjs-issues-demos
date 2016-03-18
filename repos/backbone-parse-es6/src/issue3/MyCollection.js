@@ -1,7 +1,7 @@
 'use strict';
 
 import Backbone from 'backbone';
-import MyModel from 'MyModel.js';
+import MyModel from './MyModel.js';
 
 /**
  * Provides a basic `Backbone.Collection` using MyModel

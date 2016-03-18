@@ -10,6 +10,6 @@ System.config(
 {
    map:
    {
-      'parseconfig': 'config/production-config.js'
+      'parseconfig': 'src/issue3/config/production-config.js'
    }
 });
