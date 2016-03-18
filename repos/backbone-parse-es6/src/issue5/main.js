@@ -18,6 +18,8 @@
 
 'use strict';
 
+/* eslint-disable no-console */
+
 import               'typhonjs-core-parse-init';
 
 import $             from 'jquery';
@@ -25,8 +27,6 @@ import $             from 'jquery';
 import CommentModel  from './model/CommentModel.js';
 import PostModel     from './model/PostModel.js';
 import TaskModel     from './model/TaskModel.js';
-
-import Parse         from 'parse';
 
 import commentCollection   from './collection/CommentCollection.js';
 

@@ -1,8 +1,14 @@
 window.esdocSearchIndex = [
   [
     "backbone-es6/src/backbone.js~backbone",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html",
     "<span>Backbone</span> <span class=\"search-result-import-path\">backbone-es6/src/Backbone.js</span>",
+    "class"
+  ],
+  [
+    "backbone/src/backboneparseobject.js~backboneparseobject",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/BackboneParseObject.js~BackboneParseObject.html",
+    "<span>BackboneParseObject</span> <span class=\"search-result-import-path\">backbone/src/BackboneParseObject.js</span>",
     "class"
   ],
   [
@@ -13,37 +19,43 @@ window.esdocSearchIndex = [
   ],
   [
     "typhonjs-core-backbone-query/src/backbonequery.js~backbonequery",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html",
     "<span>BackboneQuery</span> <span class=\"search-result-import-path\">typhonjs-core-backbone-query/src/BackboneQuery.js</span>",
     "class"
   ],
   [
     "backbone-es6/src/collection.js~collection",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html",
     "<span>Collection</span> <span class=\"search-result-import-path\">backbone-es6/src/Collection.js</span>",
     "class"
   ],
   [
+    "typhonjs-issues-demos-backbone-parse-es6/src/issue5/collection/commentcollection.js~commentcollection",
+    "class/backbone-parse-es6/src/issue5/collection/CommentCollection.js~CommentCollection.html",
+    "<span>CommentCollection</span> <span class=\"search-result-import-path\">typhonjs-issues-demos-backbone-parse-es6/src/issue5/collection/CommentCollection.js</span>",
+    "class"
+  ],
+  [
+    "typhonjs-issues-demos-backbone-parse-es6/src/issue5/model/commentmodel.js~commentmodel",
+    "class/backbone-parse-es6/src/issue5/model/CommentModel.js~CommentModel.html",
+    "<span>CommentModel</span> <span class=\"search-result-import-path\">typhonjs-issues-demos-backbone-parse-es6/src/issue5/model/CommentModel.js</span>",
+    "class"
+  ],
+  [
     "backbone-es6/src/debug.js~debug",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Debug.js~Debug.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Debug.js~Debug.html",
     "<span>Debug</span> <span class=\"search-result-import-path\">backbone-es6/src/Debug.js</span>",
     "class"
   ],
   [
-    "backbone-es6/src/events.js~events",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html",
-    "<span>Events</span> <span class=\"search-result-import-path\">backbone-es6/src/Events.js</span>",
-    "class"
-  ],
-  [
     "backbone-es6/src/history.js~history",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html",
     "<span>History</span> <span class=\"search-result-import-path\">backbone-es6/src/History.js</span>",
     "class"
   ],
   [
     "backbone-es6/src/model.js~model",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html",
     "<span>Model</span> <span class=\"search-result-import-path\">backbone-es6/src/Model.js</span>",
     "class"
   ],
@@ -61,44 +73,50 @@ window.esdocSearchIndex = [
   ],
   [
     "backbone/src/parsecollection.js~parsecollection",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html",
     "<span>ParseCollection</span> <span class=\"search-result-import-path\">backbone/src/ParseCollection.js</span>",
     "class"
   ],
   [
     "backbone/src/parsemodel.js~parsemodel",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html",
     "<span>ParseModel</span> <span class=\"search-result-import-path\">backbone/src/ParseModel.js</span>",
     "class"
   ],
   [
+    "typhonjs-issues-demos-backbone-parse-es6/src/issue5/model/postmodel.js~postmodel",
+    "class/backbone-parse-es6/src/issue5/model/PostModel.js~PostModel.html",
+    "<span>PostModel</span> <span class=\"search-result-import-path\">typhonjs-issues-demos-backbone-parse-es6/src/issue5/model/PostModel.js</span>",
+    "class"
+  ],
+  [
     "backbone-es6/src/router.js~router",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Router.js~Router.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Router.js~Router.html",
     "<span>Router</span> <span class=\"search-result-import-path\">backbone-es6/src/Router.js</span>",
     "class"
   ],
   [
-    "typhonjs-core-backbone-common/src/typhonevents.js~typhonevents",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/TyphonEvents.js~TyphonEvents.html",
-    "<span>TyphonEvents</span> <span class=\"search-result-import-path\">typhonjs-core-backbone-common/src/TyphonEvents.js</span>",
+    "typhonjs-issues-demos-backbone-parse-es6/src/issue5/model/taskmodel.js~taskmodel",
+    "class/backbone-parse-es6/src/issue5/model/TaskModel.js~TaskModel.html",
+    "<span>TaskModel</span> <span class=\"search-result-import-path\">typhonjs-issues-demos-backbone-parse-es6/src/issue5/model/TaskModel.js</span>",
     "class"
   ],
   [
     "backbone-es6/src/utils.js~utils",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Utils.js~Utils.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Utils.js~Utils.html",
     "<span>Utils</span> <span class=\"search-result-import-path\">backbone-es6/src/Utils.js</span>",
     "class"
   ],
   [
     "backbone-es6/src/view.js~view",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html",
     "<span>View</span> <span class=\"search-result-import-path\">backbone-es6/src/View.js</span>",
     "class"
   ],
   [
-    "backbone-es6/src/collection.js~collection",
-    "variable/index.html#static-variable-collection",
-    "<span>collection</span> <span class=\"search-result-import-path\">backbone-es6/src/Collection.js</span>",
+    "typhonjs-issues-demos-backbone-parse-es6/src/issue5/collection/commentcollection.js~commentcollection",
+    "variable/index.html#static-variable-commentCollection",
+    "<span>commentCollection</span> <span class=\"search-result-import-path\">typhonjs-issues-demos-backbone-parse-es6/src/issue5/collection/CommentCollection.js</span>",
     "variable"
   ],
   [
@@ -106,12 +124,6 @@ window.esdocSearchIndex = [
     "function/index.html#static-function-extend",
     "<span>extend</span> <span class=\"search-result-import-path\">backbone-es6/src/extend.js</span>",
     "function"
-  ],
-  [
-    "backbone-es6/src/model.js~model",
-    "variable/index.html#static-variable-model",
-    "<span>model</span> <span class=\"search-result-import-path\">backbone-es6/src/Model.js</span>",
-    "variable"
   ],
   [
     "backbone/src/modelextend.js~modelextend",
@@ -126,22 +138,10 @@ window.esdocSearchIndex = [
     "variable"
   ],
   [
-    "backbone/src/parsecollection.js~parsecollection",
-    "variable/index.html#static-variable-parseCollection",
-    "<span>parseCollection</span> <span class=\"search-result-import-path\">backbone/src/ParseCollection.js</span>",
-    "variable"
-  ],
-  [
     "backbone/src/parseextend.js~parseextend",
     "function/index.html#static-function-parseExtend",
     "<span>parseExtend</span> <span class=\"search-result-import-path\">backbone/src/parseExtend.js</span>",
     "function"
-  ],
-  [
-    "backbone/src/parsemodel.js~parsemodel",
-    "variable/index.html#static-variable-parseModel",
-    "<span>parseModel</span> <span class=\"search-result-import-path\">backbone/src/ParseModel.js</span>",
-    "variable"
   ],
   [
     "backbone/src/parsesync.js~parsesync",
@@ -492,1222 +492,1144 @@ window.esdocSearchIndex = [
     "external"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js.html",
-    "backbone-es6/src/Backbone.js",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/backboneparseobject.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/BackboneParseObject.js.html",
+    "backbone/src/BackboneParseObject.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#$",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-$",
-    "backbone-es6/src/Backbone.js~Backbone#$",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#collection",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-Collection",
-    "backbone-es6/src/Backbone.js~Backbone#Collection",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#events",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-Events",
-    "backbone-es6/src/Backbone.js~Backbone#Events",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#history",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-History",
-    "backbone-es6/src/Backbone.js~Backbone#History",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#model",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-Model",
-    "backbone-es6/src/Backbone.js~Backbone#Model",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#router",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-Router",
-    "backbone-es6/src/Backbone.js~Backbone#Router",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#view",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-View",
-    "backbone-es6/src/Backbone.js~Backbone#View",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#ajax",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-ajax",
-    "backbone-es6/src/Backbone.js~Backbone#ajax",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#constructor",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-constructor-constructor",
-    "backbone-es6/src/Backbone.js~Backbone#constructor",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#history",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-history",
-    "backbone-es6/src/Backbone.js~Backbone#history",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backbone.js~backbone#sync",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-sync",
-    "backbone-es6/src/Backbone.js~Backbone#sync",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/backboneproxy.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/BackboneProxy.js.html",
-    "backbone-es6/src/BackboneProxy.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js.html",
-    "backbone-es6/src/Collection.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#_preparemodel",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-_prepareModel",
-    "backbone-es6/src/Collection.js~Collection#_prepareModel",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#_reset",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-_reset",
-    "backbone-es6/src/Collection.js~Collection#_reset",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#add",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-add",
-    "backbone-es6/src/Collection.js~Collection#add",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#at",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-at",
-    "backbone-es6/src/Collection.js~Collection#at",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#clone",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-clone",
-    "backbone-es6/src/Collection.js~Collection#clone",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#comparator",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-member-comparator",
-    "backbone-es6/src/Collection.js~Collection#comparator",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#constructor",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-constructor-constructor",
-    "backbone-es6/src/Collection.js~Collection#constructor",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#create",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-create",
-    "backbone-es6/src/Collection.js~Collection#create",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#fetch",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-fetch",
-    "backbone-es6/src/Collection.js~Collection#fetch",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#findwhere",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-findWhere",
-    "backbone-es6/src/Collection.js~Collection#findWhere",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#get",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-get",
-    "backbone-es6/src/Collection.js~Collection#get",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#initialize",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-initialize",
-    "backbone-es6/src/Collection.js~Collection#initialize",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#length",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-member-length",
-    "backbone-es6/src/Collection.js~Collection#length",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#model",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-member-model",
-    "backbone-es6/src/Collection.js~Collection#model",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#modelid",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-modelId",
-    "backbone-es6/src/Collection.js~Collection#modelId",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#models",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-member-models",
-    "backbone-es6/src/Collection.js~Collection#models",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#parse",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-parse",
-    "backbone-es6/src/Collection.js~Collection#parse",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#pluck",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-pluck",
-    "backbone-es6/src/Collection.js~Collection#pluck",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#pop",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-pop",
-    "backbone-es6/src/Collection.js~Collection#pop",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#push",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-push",
-    "backbone-es6/src/Collection.js~Collection#push",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#remove",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-remove",
-    "backbone-es6/src/Collection.js~Collection#remove",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#reset",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-reset",
-    "backbone-es6/src/Collection.js~Collection#reset",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#set",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-set",
-    "backbone-es6/src/Collection.js~Collection#set",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#shift",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-shift",
-    "backbone-es6/src/Collection.js~Collection#shift",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#slice",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-slice",
-    "backbone-es6/src/Collection.js~Collection#slice",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#sort",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-sort",
-    "backbone-es6/src/Collection.js~Collection#sort",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#sync",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-sync",
-    "backbone-es6/src/Collection.js~Collection#sync",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#tojson",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-toJSON",
-    "backbone-es6/src/Collection.js~Collection#toJSON",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#unshift",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-unshift",
-    "backbone-es6/src/Collection.js~Collection#unshift",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/collection.js~collection#where",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Collection.js~Collection.html#instance-method-where",
-    "backbone-es6/src/Collection.js~Collection#where",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/debug.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Debug.js.html",
-    "backbone-es6/src/Debug.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/debug.js~debug.log",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Debug.js~Debug.html#static-method-log",
-    "backbone-es6/src/Debug.js~Debug.log",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js.html",
-    "backbone-es6/src/Events.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js~events#bind",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html#instance-method-bind",
-    "backbone-es6/src/Events.js~Events#bind",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js~events#constructor",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html#instance-constructor-constructor",
-    "backbone-es6/src/Events.js~Events#constructor",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js~events#listento",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html#instance-method-listenTo",
-    "backbone-es6/src/Events.js~Events#listenTo",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js~events#listentoonce",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html#instance-method-listenToOnce",
-    "backbone-es6/src/Events.js~Events#listenToOnce",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js~events#off",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html#instance-method-off",
-    "backbone-es6/src/Events.js~Events#off",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js~events#on",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html#instance-method-on",
-    "backbone-es6/src/Events.js~Events#on",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js~events#once",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html#instance-method-once",
-    "backbone-es6/src/Events.js~Events#once",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js~events#stoplistening",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html#instance-method-stopListening",
-    "backbone-es6/src/Events.js~Events#stopListening",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js~events#trigger",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html#instance-method-trigger",
-    "backbone-es6/src/Events.js~Events#trigger",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/events.js~events#unbind",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Events.js~Events.html#instance-method-unbind",
-    "backbone-es6/src/Events.js~Events#unbind",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/globalinclusiveruntime.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/GlobalInclusiveRuntime.js.html",
-    "backbone-es6/src/GlobalInclusiveRuntime.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/globalruntime.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/GlobalRuntime.js.html",
-    "backbone-es6/src/GlobalRuntime.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js.html",
-    "backbone-es6/src/History.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#atroot",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-atRoot",
-    "backbone-es6/src/History.js~History#atRoot",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#checkurl",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-checkUrl",
-    "backbone-es6/src/History.js~History#checkUrl",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#constructor",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-constructor-constructor",
-    "backbone-es6/src/History.js~History#constructor",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#decodefragment",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-decodeFragment",
-    "backbone-es6/src/History.js~History#decodeFragment",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#fragment",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-member-fragment",
-    "backbone-es6/src/History.js~History#fragment",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#getfragment",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-getFragment",
-    "backbone-es6/src/History.js~History#getFragment",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#gethash",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-getHash",
-    "backbone-es6/src/History.js~History#getHash",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#getpath",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-getPath",
-    "backbone-es6/src/History.js~History#getPath",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#getsearch",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-getSearch",
-    "backbone-es6/src/History.js~History#getSearch",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#handlers",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-member-handlers",
-    "backbone-es6/src/History.js~History#handlers",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#history",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-member-history",
-    "backbone-es6/src/History.js~History#history",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#iframe",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-member-iframe",
-    "backbone-es6/src/History.js~History#iframe",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#interval",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-member-interval",
-    "backbone-es6/src/History.js~History#interval",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#loadurl",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-loadUrl",
-    "backbone-es6/src/History.js~History#loadUrl",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#location",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-member-location",
-    "backbone-es6/src/History.js~History#location",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#matchroot",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-matchRoot",
-    "backbone-es6/src/History.js~History#matchRoot",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#navigate",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-navigate",
-    "backbone-es6/src/History.js~History#navigate",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/backboneparseobject.js~backboneparseobject#clone",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/BackboneParseObject.js~BackboneParseObject.html#instance-method-clone",
+    "backbone/src/BackboneParseObject.js~BackboneParseObject#clone",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#options",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-member-options",
-    "backbone-es6/src/History.js~History#options",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#root",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-member-root",
-    "backbone-es6/src/History.js~History#root",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#route",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-route",
-    "backbone-es6/src/History.js~History#route",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#start",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-start",
-    "backbone-es6/src/History.js~History#start",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#started",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-member-started",
-    "backbone-es6/src/History.js~History#started",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/history.js~history#stop",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/History.js~History.html#instance-method-stop",
-    "backbone-es6/src/History.js~History#stop",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js.html",
-    "backbone-es6/src/Model.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#_validate",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-_validate",
-    "backbone-es6/src/Model.js~Model#_validate",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#attributes",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-member-attributes",
-    "backbone-es6/src/Model.js~Model#attributes",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#changed",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-member-changed",
-    "backbone-es6/src/Model.js~Model#changed",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#changedattributes",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-changedAttributes",
-    "backbone-es6/src/Model.js~Model#changedAttributes",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#cid",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-member-cid",
-    "backbone-es6/src/Model.js~Model#cid",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#cidprefix",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-member-cidPrefix",
-    "backbone-es6/src/Model.js~Model#cidPrefix",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#clear",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-clear",
-    "backbone-es6/src/Model.js~Model#clear",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#clone",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-clone",
-    "backbone-es6/src/Model.js~Model#clone",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#collection",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-member-collection",
-    "backbone-es6/src/Model.js~Model#collection",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#constructor",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-constructor-constructor",
-    "backbone-es6/src/Model.js~Model#constructor",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#destroy",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-destroy",
-    "backbone-es6/src/Model.js~Model#destroy",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#escape",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-escape",
-    "backbone-es6/src/Model.js~Model#escape",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#fetch",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-fetch",
-    "backbone-es6/src/Model.js~Model#fetch",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#get",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-get",
-    "backbone-es6/src/Model.js~Model#get",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#has",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-has",
-    "backbone-es6/src/Model.js~Model#has",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#haschanged",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-hasChanged",
-    "backbone-es6/src/Model.js~Model#hasChanged",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#id",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-member-id",
-    "backbone-es6/src/Model.js~Model#id",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#initialize",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-initialize",
-    "backbone-es6/src/Model.js~Model#initialize",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#isnew",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-isNew",
-    "backbone-es6/src/Model.js~Model#isNew",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#isvalid",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-isValid",
-    "backbone-es6/src/Model.js~Model#isValid",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#matches",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-matches",
-    "backbone-es6/src/Model.js~Model#matches",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#parse",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-parse",
-    "backbone-es6/src/Model.js~Model#parse",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#previous",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-previous",
-    "backbone-es6/src/Model.js~Model#previous",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#previousattributes",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-previousAttributes",
-    "backbone-es6/src/Model.js~Model#previousAttributes",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#save",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-save",
-    "backbone-es6/src/Model.js~Model#save",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#set",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-set",
-    "backbone-es6/src/Model.js~Model#set",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#sync",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-sync",
-    "backbone-es6/src/Model.js~Model#sync",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#tojson",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-toJSON",
-    "backbone-es6/src/Model.js~Model#toJSON",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#unset",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-unset",
-    "backbone-es6/src/Model.js~Model#unset",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#url",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-method-url",
-    "backbone-es6/src/Model.js~Model#url",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/model.js~model#validationerror",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Model.js~Model.html#instance-member-validationError",
-    "backbone-es6/src/Model.js~Model#validationError",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/moduleruntime.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/ModuleRuntime.js.html",
-    "backbone-es6/src/ModuleRuntime.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/router.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Router.js.html",
-    "backbone-es6/src/Router.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/router.js~router#constructor",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Router.js~Router.html#instance-constructor-constructor",
-    "backbone-es6/src/Router.js~Router#constructor",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/router.js~router#execute",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Router.js~Router.html#instance-method-execute",
-    "backbone-es6/src/Router.js~Router#execute",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/router.js~router#initialize",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Router.js~Router.html#instance-method-initialize",
-    "backbone-es6/src/Router.js~Router#initialize",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/router.js~router#navigate",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Router.js~Router.html#instance-method-navigate",
-    "backbone-es6/src/Router.js~Router#navigate",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/router.js~router#route",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Router.js~Router.html#instance-method-route",
-    "backbone-es6/src/Router.js~Router#route",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/router.js~router#routes",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Router.js~Router.html#instance-member-routes",
-    "backbone-es6/src/Router.js~Router#routes",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/utils.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Utils.js.html",
-    "backbone-es6/src/Utils.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/utils.js~utils.addunderscoremethods",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Utils.js~Utils.html#static-method-addUnderscoreMethods",
-    "backbone-es6/src/Utils.js~Utils.addUnderscoreMethods",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/utils.js~utils.ismodel",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Utils.js~Utils.html#static-method-isModel",
-    "backbone-es6/src/Utils.js~Utils.isModel",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/utils.js~utils.isnullorundef",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Utils.js~Utils.html#static-method-isNullOrUndef",
-    "backbone-es6/src/Utils.js~Utils.isNullOrUndef",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/utils.js~utils.urlerror",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Utils.js~Utils.html#static-method-urlError",
-    "backbone-es6/src/Utils.js~Utils.urlError",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/utils.js~utils.wraperror",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/Utils.js~Utils.html#static-method-wrapError",
-    "backbone-es6/src/Utils.js~Utils.wrapError",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js.html",
-    "backbone-es6/src/View.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#$",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-$",
-    "backbone-es6/src/View.js~View#$",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#$el",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-member-$el",
-    "backbone-es6/src/View.js~View#$el",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#_createelement",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-_createElement",
-    "backbone-es6/src/View.js~View#_createElement",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/backboneparseobject.js~backboneparseobject#constructor",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/BackboneParseObject.js~BackboneParseObject.html#instance-constructor-constructor",
+    "backbone/src/BackboneParseObject.js~BackboneParseObject#constructor",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#_ensureelement",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-_ensureElement",
-    "backbone-es6/src/View.js~View#_ensureElement",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/backboneparseobject.js~backboneparseobject#tojson",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/BackboneParseObject.js~BackboneParseObject.html#instance-method-toJSON",
+    "backbone/src/BackboneParseObject.js~BackboneParseObject#toJSON",
     "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#_removeelement",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-_removeElement",
-    "backbone-es6/src/View.js~View#_removeElement",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#_setattributes",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-_setAttributes",
-    "backbone-es6/src/View.js~View#_setAttributes",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#_setelement",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-_setElement",
-    "backbone-es6/src/View.js~View#_setElement",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#cid",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-member-cid",
-    "backbone-es6/src/View.js~View#cid",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#constructor",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-constructor-constructor",
-    "backbone-es6/src/View.js~View#constructor",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#delegate",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-delegate",
-    "backbone-es6/src/View.js~View#delegate",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#delegateevents",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-delegateEvents",
-    "backbone-es6/src/View.js~View#delegateEvents",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#el",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-member-el",
-    "backbone-es6/src/View.js~View#el",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#initialize",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-initialize",
-    "backbone-es6/src/View.js~View#initialize",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#remove",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-remove",
-    "backbone-es6/src/View.js~View#remove",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#render",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-render",
-    "backbone-es6/src/View.js~View#render",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#setelement",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-setElement",
-    "backbone-es6/src/View.js~View#setElement",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#tagname",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-get-tagName",
-    "backbone-es6/src/View.js~View#tagName",
-    "member"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#undelegate",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-undelegate",
-    "backbone-es6/src/View.js~View#undelegate",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/view.js~view#undelegateevents",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/View.js~View.html#instance-method-undelegateEvents",
-    "backbone-es6/src/View.js~View#undelegateEvents",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/delegateglobaljquery.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/delegateGlobalJQuery.js.html",
-    "backbone-es6/src/delegateGlobalJQuery.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/delegateglobalunderscore.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/delegateGlobalUnderscore.js.html",
-    "backbone-es6/src/delegateGlobalUnderscore.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/extend.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/extend.js.html",
-    "backbone-es6/src/extend.js",
-    "file"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/sync.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-es6@master/src/sync.js.html",
-    "backbone-es6/src/sync.js",
-    "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/globalinclusiveruntime.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/GlobalInclusiveRuntime.js.html",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/globalinclusiveruntime.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/GlobalInclusiveRuntime.js.html",
     "backbone/src/GlobalInclusiveRuntime.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/globalruntime.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/GlobalRuntime.js.html",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/globalruntime.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/GlobalRuntime.js.html",
     "backbone/src/GlobalRuntime.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/moduleruntime.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ModuleRuntime.js.html",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/moduleruntime.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ModuleRuntime.js.html",
     "backbone/src/ModuleRuntime.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js.html",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js.html",
     "backbone/src/ParseCollection.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#clone",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-clone",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#clone",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-clone",
     "backbone/src/ParseCollection.js~ParseCollection#clone",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#comparator",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-member-comparator",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#comparator",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-member-comparator",
     "backbone/src/ParseCollection.js~ParseCollection#comparator",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#constructor",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-constructor-constructor",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#constructor",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-constructor-constructor",
     "backbone/src/ParseCollection.js~ParseCollection#constructor",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#find",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-find",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#find",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-find",
     "backbone/src/ParseCollection.js~ParseCollection#find",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#findone",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-findOne",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#findone",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-findOne",
     "backbone/src/ParseCollection.js~ParseCollection#findOne",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#model",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-member-model",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#model",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-member-model",
     "backbone/src/ParseCollection.js~ParseCollection#model",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#parse",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-parse",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#parse",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-parse",
     "backbone/src/ParseCollection.js~ParseCollection#parse",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#query",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-member-query",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#query",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-member-query",
     "backbone/src/ParseCollection.js~ParseCollection#query",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#resetquerycache",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-resetQueryCache",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#resetquerycache",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-resetQueryCache",
     "backbone/src/ParseCollection.js~ParseCollection#resetQueryCache",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#sortall",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-sortAll",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#sortall",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-sortAll",
     "backbone/src/ParseCollection.js~ParseCollection#sortAll",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsecollection.js~parsecollection#whereby",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-whereBy",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsecollection.js~parsecollection#whereby",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseCollection.js~ParseCollection.html#instance-method-whereBy",
     "backbone/src/ParseCollection.js~ParseCollection#whereBy",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js.html",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js.html",
     "backbone/src/ParseModel.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#attributes",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-attributes",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#attributes",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-attributes",
     "backbone/src/ParseModel.js~ParseModel#attributes",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#changed",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-changed",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#changed",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-changed",
     "backbone/src/ParseModel.js~ParseModel#changed",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#cid",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-cid",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#cid",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-cid",
     "backbone/src/ParseModel.js~ParseModel#cid",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#cidprefix",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-cidPrefix",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#cidprefix",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-cidPrefix",
     "backbone/src/ParseModel.js~ParseModel#cidPrefix",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#classname",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-className",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#classname",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-className",
     "backbone/src/ParseModel.js~ParseModel#className",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#clone",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-clone",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#clone",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-clone",
     "backbone/src/ParseModel.js~ParseModel#clone",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#collection",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-collection",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#collection",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-collection",
     "backbone/src/ParseModel.js~ParseModel#collection",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#constructor",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-constructor-constructor",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#constructor",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-constructor-constructor",
     "backbone/src/ParseModel.js~ParseModel#constructor",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#destroy",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-destroy",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#destroy",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-destroy",
     "backbone/src/ParseModel.js~ParseModel#destroy",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#id",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-id",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#id",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-id",
     "backbone/src/ParseModel.js~ParseModel#id",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#isnew",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-isNew",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#isnew",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-isNew",
     "backbone/src/ParseModel.js~ParseModel#isNew",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#parse",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-parse",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#parse",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-parse",
     "backbone/src/ParseModel.js~ParseModel#parse",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#parseobject",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-parseObject",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#parseobject",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-parseObject",
     "backbone/src/ParseModel.js~ParseModel#parseObject",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#set",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-set",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#save",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-save",
+    "backbone/src/ParseModel.js~ParseModel#save",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#set",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-set",
     "backbone/src/ParseModel.js~ParseModel#set",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#tojson",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-toJSON",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#subclasses",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-subClasses",
+    "backbone/src/ParseModel.js~ParseModel#subClasses",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#tojson",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-toJSON",
     "backbone/src/ParseModel.js~ParseModel#toJSON",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#url",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-url",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#url",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-method-url",
     "backbone/src/ParseModel.js~ParseModel#url",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsemodel.js~parsemodel#validationerror",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-validationError",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsemodel.js~parsemodel#validationerror",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/ParseModel.js~ParseModel.html#instance-member-validationError",
     "backbone/src/ParseModel.js~ParseModel#validationError",
     "member"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/modelextend.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/modelExtend.js.html",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/modelextend.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/modelExtend.js.html",
     "backbone/src/modelExtend.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parseextend.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parseExtend.js.html",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parseextend.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parseExtend.js.html",
     "backbone/src/parseExtend.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parsesync.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/backbone-parse-es6@master/src/parseSync.js.html",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parsesync.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/backbone-parse-es6@master/src/parseSync.js.html",
     "backbone/src/parseSync.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/typhonevents.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/TyphonEvents.js.html",
-    "typhonjs-core-backbone-common/src/TyphonEvents.js",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/typhonjs-core-parse-init@master/src/lifecycle/parseinitialize.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone-parse/typhonjs-core-parse-init@master/src/lifecycle/ParseInitialize.js.html",
+    "typhonjs-core-parse-init/src/lifecycle/ParseInitialize.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/typhonevents.js~typhonevents#triggerdefer",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/TyphonEvents.js~TyphonEvents.html#instance-method-triggerDefer",
-    "typhonjs-core-backbone-common/src/TyphonEvents.js~TyphonEvents#triggerDefer",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/typhonevents.js~typhonevents#triggerfirst",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/TyphonEvents.js~TyphonEvents.html#instance-method-triggerFirst",
-    "typhonjs-core-backbone-common/src/TyphonEvents.js~TyphonEvents#triggerFirst",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/typhonevents.js~typhonevents#triggerresults",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/TyphonEvents.js~TyphonEvents.html#instance-method-triggerResults",
-    "typhonjs-core-backbone-common/src/TyphonEvents.js~TyphonEvents#triggerResults",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/typhonevents.js~typhonevents#triggerthen",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/TyphonEvents.js~TyphonEvents.html#instance-method-triggerThen",
-    "typhonjs-core-backbone-common/src/TyphonEvents.js~TyphonEvents#triggerThen",
-    "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/maineventbus.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/mainEventbus.js.html",
-    "typhonjs-core-backbone-common/src/mainEventbus.js",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js.html",
+    "backbone-es6/src/Backbone.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/typhonextend.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-common@master/src/typhonExtend.js.html",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#$",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-$",
+    "backbone-es6/src/Backbone.js~Backbone#$",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#collection",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-Collection",
+    "backbone-es6/src/Backbone.js~Backbone#Collection",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#events",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-Events",
+    "backbone-es6/src/Backbone.js~Backbone#Events",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#history",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-History",
+    "backbone-es6/src/Backbone.js~Backbone#History",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#model",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-Model",
+    "backbone-es6/src/Backbone.js~Backbone#Model",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#router",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-Router",
+    "backbone-es6/src/Backbone.js~Backbone#Router",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#view",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-View",
+    "backbone-es6/src/Backbone.js~Backbone#View",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#ajax",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-ajax",
+    "backbone-es6/src/Backbone.js~Backbone#ajax",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#constructor",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-constructor-constructor",
+    "backbone-es6/src/Backbone.js~Backbone#constructor",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#history",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-history",
+    "backbone-es6/src/Backbone.js~Backbone#history",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backbone.js~backbone#sync",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Backbone.js~Backbone.html#instance-member-sync",
+    "backbone-es6/src/Backbone.js~Backbone#sync",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/backboneproxy.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/BackboneProxy.js.html",
+    "backbone-es6/src/BackboneProxy.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js.html",
+    "backbone-es6/src/Collection.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#_preparemodel",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-_prepareModel",
+    "backbone-es6/src/Collection.js~Collection#_prepareModel",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#_reset",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-_reset",
+    "backbone-es6/src/Collection.js~Collection#_reset",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#add",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-add",
+    "backbone-es6/src/Collection.js~Collection#add",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#at",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-at",
+    "backbone-es6/src/Collection.js~Collection#at",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#clone",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-clone",
+    "backbone-es6/src/Collection.js~Collection#clone",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#comparator",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-member-comparator",
+    "backbone-es6/src/Collection.js~Collection#comparator",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#constructor",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-constructor-constructor",
+    "backbone-es6/src/Collection.js~Collection#constructor",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#create",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-create",
+    "backbone-es6/src/Collection.js~Collection#create",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#fetch",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-fetch",
+    "backbone-es6/src/Collection.js~Collection#fetch",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#findwhere",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-findWhere",
+    "backbone-es6/src/Collection.js~Collection#findWhere",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#get",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-get",
+    "backbone-es6/src/Collection.js~Collection#get",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#initialize",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-initialize",
+    "backbone-es6/src/Collection.js~Collection#initialize",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#length",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-member-length",
+    "backbone-es6/src/Collection.js~Collection#length",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#model",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-member-model",
+    "backbone-es6/src/Collection.js~Collection#model",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#modelid",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-modelId",
+    "backbone-es6/src/Collection.js~Collection#modelId",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#models",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-member-models",
+    "backbone-es6/src/Collection.js~Collection#models",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#parse",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-parse",
+    "backbone-es6/src/Collection.js~Collection#parse",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#pluck",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-pluck",
+    "backbone-es6/src/Collection.js~Collection#pluck",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#pop",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-pop",
+    "backbone-es6/src/Collection.js~Collection#pop",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#push",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-push",
+    "backbone-es6/src/Collection.js~Collection#push",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#remove",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-remove",
+    "backbone-es6/src/Collection.js~Collection#remove",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#reset",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-reset",
+    "backbone-es6/src/Collection.js~Collection#reset",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#set",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-set",
+    "backbone-es6/src/Collection.js~Collection#set",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#shift",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-shift",
+    "backbone-es6/src/Collection.js~Collection#shift",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#slice",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-slice",
+    "backbone-es6/src/Collection.js~Collection#slice",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#sort",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-sort",
+    "backbone-es6/src/Collection.js~Collection#sort",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#sync",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-sync",
+    "backbone-es6/src/Collection.js~Collection#sync",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#tojson",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-toJSON",
+    "backbone-es6/src/Collection.js~Collection#toJSON",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#unshift",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-unshift",
+    "backbone-es6/src/Collection.js~Collection#unshift",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/collection.js~collection#where",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Collection.js~Collection.html#instance-method-where",
+    "backbone-es6/src/Collection.js~Collection#where",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/debug.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Debug.js.html",
+    "backbone-es6/src/Debug.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/debug.js~debug.log",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Debug.js~Debug.html#static-method-log",
+    "backbone-es6/src/Debug.js~Debug.log",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/globalinclusiveruntime.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/GlobalInclusiveRuntime.js.html",
+    "backbone-es6/src/GlobalInclusiveRuntime.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/globalruntime.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/GlobalRuntime.js.html",
+    "backbone-es6/src/GlobalRuntime.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js.html",
+    "backbone-es6/src/History.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#atroot",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-atRoot",
+    "backbone-es6/src/History.js~History#atRoot",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#checkurl",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-checkUrl",
+    "backbone-es6/src/History.js~History#checkUrl",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#constructor",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-constructor-constructor",
+    "backbone-es6/src/History.js~History#constructor",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#decodefragment",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-decodeFragment",
+    "backbone-es6/src/History.js~History#decodeFragment",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#fragment",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-member-fragment",
+    "backbone-es6/src/History.js~History#fragment",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#getfragment",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-getFragment",
+    "backbone-es6/src/History.js~History#getFragment",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#gethash",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-getHash",
+    "backbone-es6/src/History.js~History#getHash",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#getpath",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-getPath",
+    "backbone-es6/src/History.js~History#getPath",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#getsearch",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-getSearch",
+    "backbone-es6/src/History.js~History#getSearch",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#handlers",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-member-handlers",
+    "backbone-es6/src/History.js~History#handlers",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#history",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-member-history",
+    "backbone-es6/src/History.js~History#history",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#iframe",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-member-iframe",
+    "backbone-es6/src/History.js~History#iframe",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#interval",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-member-interval",
+    "backbone-es6/src/History.js~History#interval",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#loadurl",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-loadUrl",
+    "backbone-es6/src/History.js~History#loadUrl",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#location",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-member-location",
+    "backbone-es6/src/History.js~History#location",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#matchroot",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-matchRoot",
+    "backbone-es6/src/History.js~History#matchRoot",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#navigate",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-navigate",
+    "backbone-es6/src/History.js~History#navigate",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#options",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-member-options",
+    "backbone-es6/src/History.js~History#options",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#root",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-member-root",
+    "backbone-es6/src/History.js~History#root",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#route",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-route",
+    "backbone-es6/src/History.js~History#route",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#start",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-start",
+    "backbone-es6/src/History.js~History#start",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#started",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-member-started",
+    "backbone-es6/src/History.js~History#started",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/history.js~history#stop",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/History.js~History.html#instance-method-stop",
+    "backbone-es6/src/History.js~History#stop",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js.html",
+    "backbone-es6/src/Model.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#_validate",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-_validate",
+    "backbone-es6/src/Model.js~Model#_validate",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#attributes",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-member-attributes",
+    "backbone-es6/src/Model.js~Model#attributes",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#changed",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-member-changed",
+    "backbone-es6/src/Model.js~Model#changed",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#changedattributes",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-changedAttributes",
+    "backbone-es6/src/Model.js~Model#changedAttributes",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#cid",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-member-cid",
+    "backbone-es6/src/Model.js~Model#cid",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#cidprefix",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-member-cidPrefix",
+    "backbone-es6/src/Model.js~Model#cidPrefix",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#clear",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-clear",
+    "backbone-es6/src/Model.js~Model#clear",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#clone",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-clone",
+    "backbone-es6/src/Model.js~Model#clone",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#collection",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-member-collection",
+    "backbone-es6/src/Model.js~Model#collection",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#constructor",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-constructor-constructor",
+    "backbone-es6/src/Model.js~Model#constructor",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#destroy",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-destroy",
+    "backbone-es6/src/Model.js~Model#destroy",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#escape",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-escape",
+    "backbone-es6/src/Model.js~Model#escape",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#fetch",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-fetch",
+    "backbone-es6/src/Model.js~Model#fetch",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#get",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-get",
+    "backbone-es6/src/Model.js~Model#get",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#has",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-has",
+    "backbone-es6/src/Model.js~Model#has",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#haschanged",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-hasChanged",
+    "backbone-es6/src/Model.js~Model#hasChanged",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#id",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-member-id",
+    "backbone-es6/src/Model.js~Model#id",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#initialize",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-initialize",
+    "backbone-es6/src/Model.js~Model#initialize",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#isnew",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-isNew",
+    "backbone-es6/src/Model.js~Model#isNew",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#isvalid",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-isValid",
+    "backbone-es6/src/Model.js~Model#isValid",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#matches",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-matches",
+    "backbone-es6/src/Model.js~Model#matches",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#parse",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-parse",
+    "backbone-es6/src/Model.js~Model#parse",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#previous",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-previous",
+    "backbone-es6/src/Model.js~Model#previous",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#previousattributes",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-previousAttributes",
+    "backbone-es6/src/Model.js~Model#previousAttributes",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#save",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-save",
+    "backbone-es6/src/Model.js~Model#save",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#set",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-set",
+    "backbone-es6/src/Model.js~Model#set",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#sync",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-sync",
+    "backbone-es6/src/Model.js~Model#sync",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#tojson",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-toJSON",
+    "backbone-es6/src/Model.js~Model#toJSON",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#unset",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-unset",
+    "backbone-es6/src/Model.js~Model#unset",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#url",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-method-url",
+    "backbone-es6/src/Model.js~Model#url",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/model.js~model#validationerror",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Model.js~Model.html#instance-member-validationError",
+    "backbone-es6/src/Model.js~Model#validationError",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/moduleruntime.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/ModuleRuntime.js.html",
+    "backbone-es6/src/ModuleRuntime.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/router.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Router.js.html",
+    "backbone-es6/src/Router.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/router.js~router#constructor",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Router.js~Router.html#instance-constructor-constructor",
+    "backbone-es6/src/Router.js~Router#constructor",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/router.js~router#execute",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Router.js~Router.html#instance-method-execute",
+    "backbone-es6/src/Router.js~Router#execute",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/router.js~router#initialize",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Router.js~Router.html#instance-method-initialize",
+    "backbone-es6/src/Router.js~Router#initialize",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/router.js~router#navigate",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Router.js~Router.html#instance-method-navigate",
+    "backbone-es6/src/Router.js~Router#navigate",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/router.js~router#route",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Router.js~Router.html#instance-method-route",
+    "backbone-es6/src/Router.js~Router#route",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/router.js~router#routes",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Router.js~Router.html#instance-member-routes",
+    "backbone-es6/src/Router.js~Router#routes",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/utils.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Utils.js.html",
+    "backbone-es6/src/Utils.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/utils.js~utils.addunderscoremethods",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Utils.js~Utils.html#static-method-addUnderscoreMethods",
+    "backbone-es6/src/Utils.js~Utils.addUnderscoreMethods",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/utils.js~utils.ismodel",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Utils.js~Utils.html#static-method-isModel",
+    "backbone-es6/src/Utils.js~Utils.isModel",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/utils.js~utils.isnullorundef",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Utils.js~Utils.html#static-method-isNullOrUndef",
+    "backbone-es6/src/Utils.js~Utils.isNullOrUndef",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/utils.js~utils.urlerror",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Utils.js~Utils.html#static-method-urlError",
+    "backbone-es6/src/Utils.js~Utils.urlError",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/utils.js~utils.wraperror",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/Utils.js~Utils.html#static-method-wrapError",
+    "backbone-es6/src/Utils.js~Utils.wrapError",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js.html",
+    "backbone-es6/src/View.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#$",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-$",
+    "backbone-es6/src/View.js~View#$",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#$el",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-member-$el",
+    "backbone-es6/src/View.js~View#$el",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#_createelement",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-_createElement",
+    "backbone-es6/src/View.js~View#_createElement",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#_ensureelement",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-_ensureElement",
+    "backbone-es6/src/View.js~View#_ensureElement",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#_removeelement",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-_removeElement",
+    "backbone-es6/src/View.js~View#_removeElement",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#_setattributes",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-_setAttributes",
+    "backbone-es6/src/View.js~View#_setAttributes",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#_setelement",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-_setElement",
+    "backbone-es6/src/View.js~View#_setElement",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#cid",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-member-cid",
+    "backbone-es6/src/View.js~View#cid",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#constructor",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-constructor-constructor",
+    "backbone-es6/src/View.js~View#constructor",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#delegate",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-delegate",
+    "backbone-es6/src/View.js~View#delegate",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#delegateevents",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-delegateEvents",
+    "backbone-es6/src/View.js~View#delegateEvents",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#el",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-member-el",
+    "backbone-es6/src/View.js~View#el",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#initialize",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-initialize",
+    "backbone-es6/src/View.js~View#initialize",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#remove",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-remove",
+    "backbone-es6/src/View.js~View#remove",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#render",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-render",
+    "backbone-es6/src/View.js~View#render",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#setelement",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-setElement",
+    "backbone-es6/src/View.js~View#setElement",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#tagname",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-get-tagName",
+    "backbone-es6/src/View.js~View#tagName",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#undelegate",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-undelegate",
+    "backbone-es6/src/View.js~View#undelegate",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/view.js~view#undelegateevents",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/View.js~View.html#instance-method-undelegateEvents",
+    "backbone-es6/src/View.js~View#undelegateEvents",
+    "method"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/extend.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/extend.js.html",
+    "backbone-es6/src/extend.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/sync.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/backbone-es6@master/src/sync.js.html",
+    "backbone-es6/src/sync.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-common@master/src/typhonextend.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-common@master/src/typhonExtend.js.html",
     "typhonjs-core-backbone-common/src/typhonExtend.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/backbonequery.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/BackboneQuery.js.html",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/backbonequery.js",
+    "file/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/BackboneQuery.js.html",
     "typhonjs-core-backbone-query/src/BackboneQuery.js",
     "file"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/backbonequery.js~backbonequery.find",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html#static-method-find",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/backbonequery.js~backbonequery.find",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html#static-method-find",
     "typhonjs-core-backbone-query/src/BackboneQuery.js~BackboneQuery.find",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/backbonequery.js~backbonequery.findone",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html#static-method-findOne",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/backbonequery.js~backbonequery.findone",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html#static-method-findOne",
     "typhonjs-core-backbone-query/src/BackboneQuery.js~BackboneQuery.findOne",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/backbonequery.js~backbonequery.resetquerycache",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html#static-method-resetQueryCache",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/backbonequery.js~backbonequery.resetquerycache",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html#static-method-resetQueryCache",
     "typhonjs-core-backbone-query/src/BackboneQuery.js~BackboneQuery.resetQueryCache",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/backbonequery.js~backbonequery.sortall",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html#static-method-sortAll",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/backbonequery.js~backbonequery.sortall",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html#static-method-sortAll",
     "typhonjs-core-backbone-query/src/BackboneQuery.js~BackboneQuery.sortAll",
     "method"
   ],
   [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/backbonequery.js~backbonequery.whereby",
-    "class/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html#static-method-whereBy",
+    "backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/backbonequery.js~backbonequery.whereby",
+    "class/backbone-parse-es6/jspm_packages/github/typhonjs-backbone/typhonjs-core-backbone-query@master/src/BackboneQuery.js~BackboneQuery.html#static-method-whereBy",
     "typhonjs-core-backbone-query/src/BackboneQuery.js~BackboneQuery.whereBy",
     "method"
-  ],
-  [
-    "backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-parse-init@master/src/lifecycle/parseinitialize.js",
-    "file/backbone-parse-es6/jspm_packages/github/typhonjs/typhonjs-core-parse-init@master/src/lifecycle/ParseInitialize.js.html",
-    "parseinit/src/lifecycle/ParseInitialize.js",
-    "file"
   ],
   [
     "backbone-parse-es6/src/issue3/mycollection.js",
@@ -1750,5 +1672,83 @@ window.esdocSearchIndex = [
     "file/backbone-parse-es6/src/issue3/main.js.html",
     "backbone-parse-es6/src/issue3/main.js",
     "file"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/collection/commentcollection.js",
+    "file/backbone-parse-es6/src/issue5/collection/CommentCollection.js.html",
+    "backbone-parse-es6/src/issue5/collection/CommentCollection.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/collection/commentcollection.js~commentcollection#model",
+    "class/backbone-parse-es6/src/issue5/collection/CommentCollection.js~CommentCollection.html#instance-get-model",
+    "backbone-parse-es6/src/issue5/collection/CommentCollection.js~CommentCollection#model",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/collection/commentcollection.js~commentcollection#query",
+    "class/backbone-parse-es6/src/issue5/collection/CommentCollection.js~CommentCollection.html#instance-get-query",
+    "backbone-parse-es6/src/issue5/collection/CommentCollection.js~CommentCollection#query",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/config/config-app-paths.js",
+    "file/backbone-parse-es6/src/issue5/config/config-app-paths.js.html",
+    "backbone-parse-es6/src/issue5/config/config-app-paths.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/config/production-config.js",
+    "file/backbone-parse-es6/src/issue5/config/production-config.js.html",
+    "backbone-parse-es6/src/issue5/config/production-config.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/main.js",
+    "file/backbone-parse-es6/src/issue5/main.js.html",
+    "backbone-parse-es6/src/issue5/main.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/model/commentmodel.js",
+    "file/backbone-parse-es6/src/issue5/model/CommentModel.js.html",
+    "backbone-parse-es6/src/issue5/model/CommentModel.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/model/commentmodel.js~commentmodel#classname",
+    "class/backbone-parse-es6/src/issue5/model/CommentModel.js~CommentModel.html#instance-get-className",
+    "backbone-parse-es6/src/issue5/model/CommentModel.js~CommentModel#className",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/model/commentmodel.js~commentmodel#subclasses",
+    "class/backbone-parse-es6/src/issue5/model/CommentModel.js~CommentModel.html#instance-get-subClasses",
+    "backbone-parse-es6/src/issue5/model/CommentModel.js~CommentModel#subClasses",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/model/postmodel.js",
+    "file/backbone-parse-es6/src/issue5/model/PostModel.js.html",
+    "backbone-parse-es6/src/issue5/model/PostModel.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/model/postmodel.js~postmodel#classname",
+    "class/backbone-parse-es6/src/issue5/model/PostModel.js~PostModel.html#instance-get-className",
+    "backbone-parse-es6/src/issue5/model/PostModel.js~PostModel#className",
+    "member"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/model/taskmodel.js",
+    "file/backbone-parse-es6/src/issue5/model/TaskModel.js.html",
+    "backbone-parse-es6/src/issue5/model/TaskModel.js",
+    "file"
+  ],
+  [
+    "backbone-parse-es6/src/issue5/model/taskmodel.js~taskmodel#classname",
+    "class/backbone-parse-es6/src/issue5/model/TaskModel.js~TaskModel.html#instance-get-className",
+    "backbone-parse-es6/src/issue5/model/TaskModel.js~TaskModel#className",
+    "member"
   ]
 ]

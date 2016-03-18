@@ -7,6 +7,8 @@
 
 'use strict';
 
+/* eslint-disable no-console */
+
 import               'parseinit';
 
 import $             from 'jquery';
@@ -21,8 +23,9 @@ myCollection.fetch().then(() =>
 {
    const itemsUL = $('.Items');
 
-   myCollection.models.forEach((model) => {
-      console.log('Model text: ' +model.get('Text'));
+   myCollection.models.forEach((model) =>
+   {
+      console.log(`Model text: ${model.get('Text')}`);
       itemsUL.append($('<li>').text(model.get('Text')));
    });
 });

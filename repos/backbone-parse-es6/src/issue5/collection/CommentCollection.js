@@ -7,9 +7,6 @@ import Parse         from 'parse';
 
 const s_QUERY = new Parse.Query(CommentModel);
 
-//const s_QUERY = new Backbone.Query(CommentModel);
-
-
 s_QUERY.include('parent');
 s_QUERY.include('task');
 s_QUERY.limit(1);
@@ -26,6 +23,11 @@ class CommentCollection extends Backbone.Collection
     */
    get model() { return CommentModel; }
 
+   /**
+    * Returns the Parse query for this collection.
+    *
+    * @returns {Parse.Query}
+    */
    get query() { return s_QUERY; }
 }
 
