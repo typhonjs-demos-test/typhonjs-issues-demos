@@ -1,33 +1,33 @@
 {
-  "name": "typhonjs-issues-demos-backbone-parse-es6",
+  "name": "typhonjs-issues-demos",
   "version": "0.1.0",
-  "homepage": "https://github.com/typhonjs-demos/typhonjs-issues-demos",
+  "homepage": "https://github.com/typhonjs-demos-test/typhonjs-issues-demos",
   "description": "Provides concise demos illustrating issues in backbone-parse-es6",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/typhonjs-demos/typhonjs-issues-demos/typhonjs-issues-demos.git"
+    "url": "https://github.com/typhonjs-demos-test/typhonjs-issues-demos.git"
   },
   "jspm": {
     "dependencies": {
       "backbone": "github:typhonjs-backbone-parse/backbone-parse-es6@master",
       "jquery": "github:typhonjs-browser/zepto@master",
-      "parse": "npm:parse@^1.7.0",
+      "parse": "npm:parse@^1.0.0",
       "text": "github:systemjs/plugin-text@^0.0.2",
       "typhonjs-core-parse-init": "github:typhonjs-backbone-parse/typhonjs-core-parse-init@master",
-      "underscore": "npm:underscore@^1.8.3"
+      "underscore": "npm:underscore@^1.0.0"
     },
     "devDependencies": {
-      "babel": "npm:babel-core@^5.8.35",
-      "babel-runtime": "npm:babel-runtime@^5.8.35",
-      "core-js": "npm:core-js@^1.2.6"
+      "babel": "npm:babel-core@^5.0.0",
+      "babel-runtime": "npm:babel-runtime@^5.0.0",
+      "core-js": "npm:core-js@^1.0.0"
     }
   },
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^3.0.0",
     "jspm": "^0.16.0",
     "typhonjs-config-eslint": "^0.4.0",
-    "typhonjs-config-jspm-parse": "^0.5.0",
+    "typhonjs-config-jspm-parse": "^0.6.0",
     "typhonjs-core-gulptasks": "^0.6.0",
     "typhonjs-npm-build-test": "^0.1.0"
   }
